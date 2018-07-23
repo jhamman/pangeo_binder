@@ -1,5 +1,5 @@
 registry:
-  prefix: gcr.io/pangeo-181919/pangeo-binder
+  prefix: gcr.io/pangeo-181919/binderhub-builder
   enabled: true
 hub:
   url: http://35.203.186.83
